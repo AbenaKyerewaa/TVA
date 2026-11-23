@@ -37,7 +37,7 @@ class PhasesSixToNineTest extends TestCase
 
         $response->assertStatus(200);
         $response->assertSee('Heirlooms Sculpted');
-        $response->assertSee('Complimentary Insured Courier');
+        $response->assertSee('Bespoke Concierge');
         $response->assertSee('Words from Our Collectors');
         $response->assertSee("The Vaughn Atelier Collector's Circle", false);
     }

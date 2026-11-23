@@ -25,11 +25,10 @@
 
 <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-stone-200/80 transition-all duration-300">
     <!-- Announcement Bar -->
-    <div class="bg-noir-950 text-stone-300 text-[11px] font-sans tracking-ultra uppercase py-2 text-center px-4 border-b border-stone-800">
+    <div class="bg-noir-950 text-stone-300 text-[11px] font-sans tracking-ultra uppercase py-2 px-4 border-b border-stone-800">
         <div class="max-w-7xl mx-auto flex items-center justify-between">
-            <span class="hidden md:inline text-gold-400">The Vaughn Atelier</span>
-            <span class="mx-auto md:mx-0">Complimentary Insured Courier on All Orders &bull; Handcrafted in 18K Solid Gold</span>
-            <div class="hidden md:flex items-center space-x-4 text-stone-400">
+            <span class="text-gold-400">The Vaughn Atelier</span>
+            <div class="flex items-center space-x-4 text-stone-400">
                 <a href="#concierge" class="hover:text-gold-300 transition-colors">Bespoke Concierge</a>
             </div>
         </div>
