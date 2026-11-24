@@ -43,7 +43,7 @@
                     </p>
                     <p class="flex items-center space-x-2">
                         <span class="text-gold-400">&bull;</span>
-                        <span>Concierge Hotline: +1 (800) 857-001</span>
+                        <span>Concierge Hotline: +1 (800) 857-0001</span>
                     </p>
                 </div>
             </div>

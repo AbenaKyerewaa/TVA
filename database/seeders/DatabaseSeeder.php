@@ -39,7 +39,7 @@ class DatabaseSeeder extends Seeder
             ['email' => 'admin@tvajewelry.com'],
             [
                 'name' => 'TVA Atelier Admin',
-                'phone' => '+1 (800) 857-001',
+                'phone' => '+1 (800) 857-0001',
                 'role' => 'admin',
                 'is_active' => true,
                 'email_verified_at' => now(),
