@@ -240,7 +240,7 @@
                 <x-luxury.button variant="gold" size="lg" :href="route('catalog')">
                     Explore The Full Vault
                 </x-luxury.button>
-                <a href="mailto:salon@thevaughnatelier.com" class="px-6 py-3.5 bg-stone-900 text-stone-200 hover:text-white hover:bg-stone-800 border border-stone-700 text-xs uppercase font-sans tracking-ultra font-semibold transition-all">
+                <a href="mailto:contact@thevaughnatelier.store" class="px-6 py-3.5 bg-stone-900 text-stone-200 hover:text-white hover:bg-stone-800 border border-stone-700 text-xs uppercase font-sans tracking-ultra font-semibold transition-all">
                     Request Salon Appointment
                 </a>
             </div>

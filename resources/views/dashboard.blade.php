@@ -162,7 +162,7 @@
                     <span class="text-xs uppercase tracking-ultra text-gold-700 font-semibold block mb-2">Dedicated Concierge Service</span>
                     <h4 class="font-serif text-lg text-stone-900">Personal Atelier Liaison</h4>
                     <p class="text-xs text-stone-500 mt-1 leading-relaxed">
-                        For bespoke engraving, anniversary surprises, or private salon appointments in Paris or New York, contact your liaison at <a href="mailto:concierge@thevaughnatelier.com" class="text-amber-700 underline">concierge@thevaughnatelier.com</a>.
+                        For bespoke engraving, anniversary surprises, or private salon appointments in Paris or New York, contact your liaison at <a href="mailto:contact@thevaughnatelier.store" class="text-amber-700 underline">contact@thevaughnatelier.store</a> or call <span class="font-medium text-stone-700">+1 (800) 857-001</span>.
                     </p>
                 </div>
             </div>

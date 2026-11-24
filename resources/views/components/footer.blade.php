@@ -39,11 +39,11 @@
                 <div class="pt-2 text-xs text-stone-400 space-y-1">
                     <p class="flex items-center space-x-2">
                         <span class="text-gold-400">&bull;</span>
-                        <span>Private Appointments: salon@thevaughnatelier.com</span>
+                        <span>Private Appointments: contact@thevaughnatelier.store</span>
                     </p>
                     <p class="flex items-center space-x-2">
                         <span class="text-gold-400">&bull;</span>
-                        <span>Concierge Hotline: +1 (800) 555-8822</span>
+                        <span>Concierge Hotline: +1 (800) 857-001</span>
                     </p>
                 </div>
             </div>

@@ -282,7 +282,7 @@
 
     <!-- Footer -->
     <div class="footer">
-        The Vaughn Atelier SAS &bull; 14 Place Vendôme, 75001 Paris, France &bull; VAT: FR 88 920 184 721 &bull; concierge@thevaughnatelier.com
+        The Vaughn Atelier SAS &bull; 14 Place Vendôme, 75001 Paris, France &bull; VAT: FR 88 920 184 721 &bull; contact@thevaughnatelier.store
     </div>
 
 </body>
